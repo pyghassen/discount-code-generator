@@ -1,0 +1,5 @@
+structlog==21.1.0
+pytest==6.2.3
+pytest-cov==2.11.1
+coverage==5.5
+pylint==2.7.4
